@@ -1,5 +1,6 @@
 
 <?php 
+
     define('UPLOAD_DIR', 'tmp_image/');
 	/*Get Data From POST Http Request*/
 	$datas = file_get_contents('php://input');
